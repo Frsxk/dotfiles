@@ -88,5 +88,3 @@ sdk install java 21.0.2-tem
 # Setup Python shell completion
 uv generate-shell-completion fish | source
 ```
-
-````
