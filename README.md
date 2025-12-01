@@ -71,6 +71,7 @@ cd ~/dotfiles
 stow kitty
 stow fish
 stow starship
+stow fastfetch
 ```
 
 ### 6\. Final Setup
