@@ -90,13 +90,3 @@ uv generate-shell-completion fish | source
 ```
 
 ````
-
-### Step 3: Save and Push
-Now, save the file (`Ctrl+O`, `Enter`, `Ctrl+X`) and push it to GitHub:
-
-```bash
-cd ~/dotfiles
-git add README.md
-git commit -m "Add documentation"
-git push
-````
