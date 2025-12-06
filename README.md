@@ -67,11 +67,8 @@ Pull this repo and symlink the configs:
 git clone [https://github.com/YOUR_USERNAME/dotfiles.git](https://github.com/YOUR_USERNAME/dotfiles.git) ~/dotfiles
 cd ~/dotfiles
 
-# Apply configurations
-stow kitty
-stow fish
-stow starship
-stow fastfetch
+# Apply configurations to Home directory (~/.config/)
+stow -t ~ kitty fish starship fastfetch
 ```
 
 ### 6\. Final Setup
