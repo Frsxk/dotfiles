@@ -34,29 +34,59 @@
     "break",
     {
       "type": "os",
-      "key": "󰣭",
-      "keyColor": "#89DCEB"
+      "key": "󰣭 ",
+      "keyColor": "#CDB4DB"
+    },
+    {
+      "type": "uptime",
+      "key": " ",
+      "keyColor": "#BDE0FE"
+    },
+    {
+      "type": "packages",
+      "key": " ",
+      "keyColor": "#A2D2FF"
+    },
+    {
+      "type": "shell",
+      "key": " ",
+      "keyColor": "#99E1D9"
+    },
+    {
+      "type": "wm",
+      "key": " ",
+      "keyColor": "#BAE6CA"
+    },
+    {
+      "type": "terminal",
+      "key": " ",
+      "keyColor": "#E2F0CB"
     },
     {
       "type": "cpu",
-      "key": "",
-      "keyColor": "#F5C2E7"
+      "key": " ",
+      "keyColor": "#FDF4B8"
     },
     {
       "type": "board",
-      "key": "󰚗",
-      "keyColor": "#FAB387"
+      "key": "󰚗 ",
+      "keyColor": "#FFDAC1"
     },
     {
       "type": "memory",
-      "key": "",
-      "keyColor": "#A6E3A1",
+      "key": " ",
+      "keyColor": "#FFB7B2",
       "format": "{used} / {total} ({percentage})"
     },
     {
       "type": "disk",
-      "key": "",
-      "keyColor": "#94E2D5"
+      "key": " ",
+      "keyColor": "#FF9AA2"
+    },
+    {
+      "type": "battery",
+      "key": " ",
+      "keyColor": "#E0BBE4"
     },
     "break",
     {

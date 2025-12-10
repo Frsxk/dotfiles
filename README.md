@@ -1,10 +1,11 @@
 # 🔧 My Dotfiles
 
-![Terminal Screenshot](./screenshot.png)
-
 My personal configuration for a high-performance Linux development environment.
 
 ## 🖼️ Preview
+
+![Terminal Screenshot](./screenshot.png)
+
 ## 🛠️ The Stack
 * **OS:** Linux (Debian/Ubuntu based)
 * **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/) (GPU accelerated)
