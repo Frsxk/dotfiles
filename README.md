@@ -11,6 +11,7 @@ My personal configuration for a high-performance Linux development environment.
 * **Terminal:** [Kitty](https://sw.kovidgoyal.net/kitty/) (GPU accelerated)
 * **Shell:** [Fish](https://fishshell.com/)
 * **Prompt:** [Starship](https://starship.rs/)
+* **Audio Visualizer**: Cava
 * **Font:** FiraCode Nerd Font
 * **Package Managers:**
   * Node: `fnm`
@@ -69,7 +70,7 @@ git clone [https://github.com/YOUR_USERNAME/dotfiles.git](https://github.com/YOU
 cd ~/dotfiles
 
 # Apply configurations to Home directory (~/.config/)
-stow -t ~ kitty fish starship fastfetch
+stow -t ~ kitty fish starship fastfetch cava
 ```
 
 ### 6\. Final Setup
